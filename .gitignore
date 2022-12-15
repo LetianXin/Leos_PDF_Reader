@@ -1,0 +1,9 @@
+# Ignore everything in the repository root.
+/*
+
+# Files not to ignore:
+!/.gitignore
+!/Leos_PDF_Reader.xcodeproj
+
+# Folders not to ignore:
+!/Leos_PDF_Reader/
